@@ -1,0 +1,35 @@
+.heading 
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px maroon;
+    font-family: Palatino;
+}
+
+.note
+{
+    font-size: 15px;
+    color: darkmagenta;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: darkred;
+    bottom: 0;
+    width: 100%;
+    background-color:chartreuse;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+}
+
+body {
+    background: radial-gradient(red 0%, orange 25%, yellow 50%, green 75%, blue 100%);
+}
